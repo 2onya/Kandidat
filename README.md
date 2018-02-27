@@ -1,4 +1,4 @@
 # Kandidat
 Övergripande för arbetet
 
-Försök att lägga dela in i snygga kategorier så att det blir organiserat 
+Försök att lägga in nya delar i snygga kategorier så att det blir organiserat 
